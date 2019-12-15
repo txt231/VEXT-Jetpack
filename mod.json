@@ -1,0 +1,12 @@
+{
+	"Name": "VEXT-Jetpack",
+	"Authors": [ "txt" ],
+	"Description": "Makes you go up",
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Dependencies": 
+	{
+		"veniceext": "^1.0.0"
+	}
+}
